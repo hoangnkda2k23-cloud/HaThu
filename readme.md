@@ -45,6 +45,7 @@ int main() {
     cout << "Thuong: " << fixed << setprecision(2) << (double)a / b << "\n";
     return 0;
 }
+```
 # BUỔI 2: CẤU TRÚC RẼ NHÁNH & BIỂU THỨC LOGIC
 
 ---
@@ -94,6 +95,7 @@ int main() {
     }
     return 0;
 }
+```
 # BUỔI 3: CẤU TRÚC LẶP & THUẬT TOÁN SỐ HỌC CƠ BẢN
 
 ---
@@ -141,6 +143,7 @@ int main() {
     cout << fixed << setprecision(4) << "Tong S = " << s << "\n";
     return 0;
 }
+```
 # BUỔI 4: KỸ THUẬT ĐỌC/GHI FILE CHUẨN (*.INP, *.OUT)
 
 ---
@@ -211,3 +214,4 @@ int main() {
 
     return 0;
 }
+```
